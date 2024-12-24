@@ -1,0 +1,6 @@
+torch
+transformers
+pika
+python-dotenv
+stomp-py
+sentence-transformers
